@@ -1,0 +1,12 @@
+{
+  "name": "configdev",
+  "profiles": [
+    "dev"
+  ],
+  "label": "master",
+  "version": "1.0",
+  "propertySources": [{
+    "name": "dddd"
+  }]
+}
+    

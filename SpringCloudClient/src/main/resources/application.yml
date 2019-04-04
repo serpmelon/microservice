@@ -1,0 +1,13 @@
+server:
+  port: 9999
+spring:
+  application:
+    name: config
+  profiles:
+    active:
+    - default
+  cloud:
+    config:
+      profile: home
+      uri:
+      - http://localhost:8888

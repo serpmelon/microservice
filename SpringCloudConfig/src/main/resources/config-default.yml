@@ -1,0 +1,12 @@
+{
+  "name": "wahaha",
+  "profiles": [
+    "default"
+  ],
+  "label": "master",
+  "version": "1.0",
+  "propertySources": [{
+    "name": "iversion"
+  }]
+}
+    

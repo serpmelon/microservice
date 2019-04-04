@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: eureka-client
+  profiles:
+    active:
+    - default
+server:
+  port: 10003
+eureka:
+  instance:
+    prefer-ip-address: true
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://localhost:10001/eureka
