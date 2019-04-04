@@ -1,4 +1,4 @@
-package com.togo.akkademo.tutorial;
+package com.togo.akkademo.tutorial.actor_architecture;
 
 import java.io.IOException;
 
